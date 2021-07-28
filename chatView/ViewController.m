@@ -16,6 +16,8 @@
 #define Screen_Width [UIScreen mainScreen].bounds.size.width
 #define Screen_Height [UIScreen mainScreen].bounds.size.height
 
+//  master 7 - 28 1
+
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource,VKNeZhaRecordButtonDelegate>
 @property (nonatomic, strong) UILabel  *noDataLabel;
 @property (nonatomic, strong) UITableView  *tableView;
