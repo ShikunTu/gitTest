@@ -9,8 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-//  (7 - 28 master)
-//  (master)
+//  (7 - 28 master) // (7 - 28 dev)
 @end
 
 @implementation AppDelegate
