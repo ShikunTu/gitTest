@@ -18,6 +18,7 @@
 #define Screen_Height [UIScreen mainScreen].bounds.size.height
 
 //  master 7 - 28 1
+//  merge测试 master
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource,VKNeZhaRecordButtonDelegate>
 @property (nonatomic, strong) UILabel  *noDataLabel;
